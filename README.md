@@ -7,3 +7,6 @@ This is a pipeline of tasks that RanchiMall needs to get executed
 3. The team will conduct design discussions, and come up with two outputs: Design Document and list of tasks.
 4. Design documents will be created on the project repository wiki page in GitHub itself
 5. List of tasks will be uploaded in RIBC App for execution and monitoring
+
+# Preparation
+1. Participants should learn rules for editing GitHub wiki
