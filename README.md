@@ -10,3 +10,8 @@ This is a pipeline of tasks that RanchiMall needs to get executed
 
 # Preparation
 1. Participants should learn rules for editing GitHub wiki
+
+# List of Projects
+1. PHP -- Enabling FLO Based Authentication in RanchiMall Centralised Exchange
+2. Python -- Extensions of RanchiMall SmartContract System
+3. Server Management -- Cloud Droplet Management, Docker, Nginx and Flosights
