@@ -6,10 +6,11 @@ This is a pipeline of tasks that RanchiMall needs to get executed
 2. A team will be nominated that will work on that project. Those who do not perform well will drop off.
 3. The team will conduct design discussions, and come up with two outputs: Design Document and list of tasks.
 4. Design documents will be created on the project repository wiki page in GitHub itself
-5. List of tasks will be uploaded in RIBC App for execution and monitoring
+5. Draft list of tasks will also be available in Projects tab of the project repository in GitHub.
+6. Finalized List of tasks will be uploaded in RIBC App for execution and monitoring.
 
 # Preparation
-1. Participants should learn rules for editing GitHub wiki
+1. Participants should learn basic rules for editing GitHub wiki by watching this 3 minute video https://www.youtube.com/watch?v=bnMl0d-RcPQ
 
 # List of Projects
 1. PHP -- Enabling FLO Based Authentication in RanchiMall Centralised Exchange
