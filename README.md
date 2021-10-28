@@ -11,6 +11,7 @@ This is a pipeline of tasks that RanchiMall needs to get executed
 
 # Preparation
 1. Participants should learn basic rules for editing GitHub wiki by watching this 3 minute video https://www.youtube.com/watch?v=bnMl0d-RcPQ
+2. Particpants should also know how to write GitHub Readme by understanding its markup language here https://www.youtube.com/watch?v=eJojC3lSkwg
 
 # List of Projects
 1. PHP -- Enabling FLO Based Authentication in RanchiMall Centralized Exchange
