@@ -1,7 +1,7 @@
 # What are different files here
-customer.sql is the customer table where authentication information is stored
-ranchi8_exchange_test.sql is the ful MySQL database with test data
-Exchange_PHP_code.zip has the full PHP code 
+  - customer.sql is the customer table where authentication information is stored
+  - ranchi8_exchange_test.sql is the ful MySQL database with test data
+  - Exchange_PHP_code.zip has the full PHP code 
 
 # Main Task
   >  You have to convert Facebook based authentication to FLO based authentication
