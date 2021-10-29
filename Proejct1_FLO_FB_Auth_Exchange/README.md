@@ -46,6 +46,11 @@ WE ARE INTERESTED IN THIS fb_id
 isset($_SESSION['fb_id'])
 
 fb_id is a field in database
+
+# Interesting code snippets
+
+From fbconfig.php which sets the $_SESSION variables 
+
 ```php
     // printing $profile array on the screen which holds the basic info about user
 
