@@ -2,6 +2,7 @@
   - customer.sql is the customer table where authentication information is stored
   - ranchi8_exchange_test.sql is the ful MySQL database with test data
   - Exchange_PHP_code.zip has the full PHP code 
+  - flo-auth.php illustrates how FLO based authentication happens
 
 # Main Task
   >  You have to convert Facebook based authentication to FLO based authentication
@@ -45,3 +46,18 @@ WE ARE INTERESTED IN THIS fb_id
 isset($_SESSION['fb_id'])
 
 fb_id is a field in database
+```php
+    // printing $profile array on the screen which holds the basic info about user
+
+    $name = isset($profile['name']) ? $profile['name'] : null;
+    $first_name = isset($profile['first_name']) ? $profile['first_name'] : null;
+    $last_name = isset($profile['last_name']) ? $profile['last_name'] : null;
+    $email = isset($profile['email']) ? $profile['email'] : null;
+    //$gender = isset($profile['gender']) ? $profile['gender'] : null;
+    $fb_id = isset($profile['id']) ? $profile['id'] : null;
+
+    $_SESSION['first_name'] = $first_name;
+    $_SESSION['full_name'] = $name;
+    $_SESSION['email'] = $email;
+    $_SESSION['fb_id'] = $fb_id;
+ ```   
