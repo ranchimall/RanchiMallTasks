@@ -18,3 +18,4 @@ This is a pipeline of tasks that RanchiMall needs to get executed
 2. Python -- Extensions of RanchiMall SmartContract System
 3. Server Management -- Cloud Droplet Management, Docker, Nginx and Flosights
 4. Marketing  -- Dot Circle Marketing for Content Collaboration
+5. Javascript -- Fix voting in export function of Content Collaboration
