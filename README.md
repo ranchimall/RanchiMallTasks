@@ -20,3 +20,4 @@ This is a pipeline of tasks that RanchiMall needs to get executed
 4. Marketing  -- Dot Circle Marketing for Content Collaboration
 5. Javascript -- Fix voting in export function of Content Collaboration
 6. Python -- Rollback capability in token scanner
+7. JavaScript -- Content Collaboration Efficiency and UI improvements
