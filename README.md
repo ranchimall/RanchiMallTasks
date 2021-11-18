@@ -21,6 +21,7 @@ This is a pipeline of tasks that RanchiMall needs to get executed
 5. Javascript -- Fix voting in export function of Content Collaboration
 6. Python -- Rollback capability in token scanner
 7. JavaScript -- Content Collaboration Efficiency and UI improvements
+8. Node.js -- Centralised Exchange Market for FLO Rupee pair
 
 # Identification of Dots for RanchiMall Times and Content Collaboration
 1. Crypto Readers
