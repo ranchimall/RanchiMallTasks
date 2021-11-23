@@ -22,6 +22,7 @@ This is a pipeline of tasks that RanchiMall needs to get executed
 6. Python -- Rollback capability in token scanner
 7. JavaScript -- Content Collaboration Efficiency and UI improvements
 8. Node.js -- Centralised Exchange Market for FLO Rupee pair
+9. JavaScript -- Article Voting and Rating System
 
 # Identification of Dots for RanchiMall Times and Content Collaboration
 1. Crypto Readers
