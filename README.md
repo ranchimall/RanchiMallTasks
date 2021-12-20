@@ -14,17 +14,5 @@ This is a pipeline of tasks that RanchiMall needs to get executed
 2. Particpants should also know how to write GitHub Readme by understanding its markup language here https://www.youtube.com/watch?v=eJojC3lSkwg
 
 # List of Projects
-1. PHP -- Enabling FLO Based Authentication in RanchiMall Centralized Exchange
-2. Python -- Extensions of RanchiMall SmartContract System
-3. Server Management -- Cloud Droplet Management, Docker, Nginx and Flosights
-4. Marketing  -- Dot Circle Marketing for Content Collaboration
-5. Javascript -- Fix voting in export function of Content Collaboration
-6. Python -- Rollback capability in token scanner
-7. JavaScript -- Content Collaboration Efficiency and UI improvements
-8. Node.js -- Centralised Exchange Market for FLO Rupee pair
-9. JavaScript -- Article Voting and Rating System
-
-# Identification of Dots for RanchiMall Times and Content Collaboration
-1. Crypto Readers
-2. Local journalists in Ranchi
-3. English students in Ranchi colleges
+1. Look at RanchiMallTasks Wiki for list of projects https://github.com/ranchimall/RanchiMallTasks/wiki
+2. Look at RanchiMallTasks Project page for active projects https://github.com/ranchimall/RanchiMallTasks/projects
